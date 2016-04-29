@@ -1,8 +1,8 @@
 package com.atguigu.egit.bean;
 
-public class Gitdemo {
+public class GitDemo {
 
 	public static void main(String[] args) {
-		System.out.println("What you want?");
+		System.out.println("What do you want?");
 	}
 }
