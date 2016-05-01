@@ -18,6 +18,8 @@ public class HelloEgit {
 
 		System.out.println("我可是大领导，你小子小心点");	
 
+
 		System.out.println("领导说完话，我再zhisheng");	
+
 	}
 }
