@@ -7,5 +7,6 @@ public class HelloEgit {
 		System.out.println("update and ==");
 		System.out.println("update01!");
 		System.out.println("update02!");
+		System.out.println("我在这里做了修改了，：）");
 	}
 }
